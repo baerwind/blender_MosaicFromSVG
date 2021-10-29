@@ -1,2 +1,2 @@
 # blender_MosaicFromSVG
-generates mosaic tile meshes from 2D SVG image
+generates mosaic tile meshes from 2D SVG image in Blender Import
